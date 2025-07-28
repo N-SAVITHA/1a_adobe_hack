@@ -24,6 +24,10 @@ def extract_pdf_features(pdf_path):
                     group = {
                         "text": text,
                         "bbox": span["bbox"],
+                        "x0": span["bbox"][0],
+                        "y0": span["bbox"][1],
+                        "x1": span["bbox"][2],
+                        "y1": span["bbox"][3],
                         "font_name": span.get("font", ""),
                         "font_size": round(span.get("size", 0.0), 2),
                         "is_bold": "Bold" in span.get("font", ""),

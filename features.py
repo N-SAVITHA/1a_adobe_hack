@@ -13,11 +13,13 @@ def convert_to_dataframe(json_path):
             if not item["text"].strip():
                 continue
 
-            # Feature vector
+            # Feature vector with 7 features
             feature = [
+                item["x0"],
+                item["y0"],
+                item["x1"],
+                item["y1"],
                 item["font_size"],
-                len(item["text"]),
-                item["bbox"][1],           # y-position (top)
                 1 if item.get("is_bold") else 0,
                 1 if item.get("is_italic") else 0
             ]
