@@ -1,0 +1,978 @@
+[
+  {
+    "page": 1,
+    "groups": [
+      {
+        "text": "1",
+        "bbox": [
+          517.7440795898438,
+          778.8698120117188,
+          525.8034057617188,
+          793.5610961914062
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.98,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "Modern Slavery Act Statement",
+        "bbox": [
+          208.1999969482422,
+          70.79478454589844,
+          390.2055969238281,
+          90.19902801513672
+        ],
+        "font_name": "Calibri-Bold",
+        "font_size": 13.98,
+        "is_bold": true,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "Approved by the Directors on 26",
+        "bbox": [
+          72.0,
+          107.68800354003906,
+          230.72409057617188,
+          123.74400329589844
+        ],
+        "font_name": "Calibri",
+        "font_size": 12.0,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "th",
+        "bbox": [
+          230.6999969482422,
+          107.7925033569336,
+          237.58673095703125,
+          118.46974182128906
+        ],
+        "font_name": "Calibri",
+        "font_size": 7.98,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "May 2021",
+        "bbox": [
+          237.60000610351562,
+          107.68800354003906,
+          294.1920166015625,
+          123.74400329589844
+        ],
+        "font_name": "Calibri",
+        "font_size": 12.0,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "Introduction",
+        "bbox": [
+          72.0,
+          142.04917907714844,
+          126.28836059570312,
+          155.95693969726562
+        ],
+        "font_name": "Calibri-Bold",
+        "font_size": 10.02,
+        "is_bold": true,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "Forced or compulsory labour, human trafficking and other kinds of slavery represent some of the gravest forms",
+        "bbox": [
+          72.0,
+          161.85943603515625,
+          525.58984375,
+          175.2661895751953
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "of human rights abuse in any society. We all have a responsibility to be alert to the risks, however small, in both",
+        "bbox": [
+          72.0,
+          174.04376220703125,
+          525.5590209960938,
+          187.4505157470703
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "our business and in our wider supply chain. Our colleagues are expected to report concerns and management",
+        "bbox": [
+          72.0,
+          186.2882080078125,
+          525.5614624023438,
+          199.69496154785156
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "are expected to act upon them.",
+        "bbox": [
+          72.00001525878906,
+          198.53265380859375,
+          204.52455139160156,
+          211.9394073486328
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "We do not support or deal with any person or business knowingly involved in slavery or human trafficking.  The",
+        "bbox": [
+          72.00001525878906,
+          216.70892333984375,
+          525.5905151367188,
+          230.1156768798828
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "use of exploitative labour and human trafficking is a criminal offence and is forbidden in our business and",
+        "bbox": [
+          72.00003051757812,
+          228.89324951171875,
+          525.5853881835938,
+          242.3000030517578
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "through our supply chain.",
+        "bbox": [
+          72.00003051757812,
+          241.19781494140625,
+          180.7671356201172,
+          254.6045684814453
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "Our Business",
+        "bbox": [
+          72.00003051757812,
+          259.24383544921875,
+          125.79541015625,
+          273.1515808105469
+        ],
+        "font_name": "Calibri-Bold",
+        "font_size": 10.02,
+        "is_bold": true,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "We connect a global community of informed travel consumers and expert, caring travel advisers, who specialise",
+        "bbox": [
+          72.00003051757812,
+          277.490234375,
+          525.5609741210938,
+          290.8970031738281
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "in creating personalised travel experiences. Entrepreneurs use our brand, tools, technology, supply chain and",
+        "bbox": [
+          72.00003051757812,
+          289.73468017578125,
+          525.5734252929688,
+          303.1414489746094
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "support to establish and grow their businesses, trading as Travel Counsellor franchisees (each known as a ‘Travel",
+        "bbox": [
+          71.99005126953125,
+          301.91900634765625,
+          525.5997314453125,
+          315.3257751464844
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "Counsellor’).",
+        "bbox": [
+          72.01007080078125,
+          314.22357177734375,
+          127.92167663574219,
+          327.6303405761719
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "Our main business (",
+        "bbox": [
+          72.02009582519531,
+          332.3397216796875,
+          156.94961547851562,
+          345.7464904785156
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "Travel Counsellors Limited",
+        "bbox": [
+          156.9095458984375,
+          332.20947265625,
+          269.62255859375,
+          346.1172180175781
+        ],
+        "font_name": "Calibri-Bold",
+        "font_size": 10.02,
+        "is_bold": true,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": ") and headquarters are located in Manchester, UK. We also",
+        "bbox": [
+          269.594482421875,
+          332.3397216796875,
+          525.573486328125,
+          345.7464904785156
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "operate through subsidiaries in the Netherlands, Belgium, Ireland, UAE, South Africa and Australia.",
+        "bbox": [
+          71.99005126953125,
+          344.644287109375,
+          476.8681945800781,
+          358.0510559082031
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "Our Supply Chains",
+        "bbox": [
+          72.00006103515625,
+          362.6903076171875,
+          149.86048889160156,
+          376.5980529785156
+        ],
+        "font_name": "Calibri-Bold",
+        "font_size": 10.02,
+        "is_bold": true,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "In the majority of cases when a Travel Counsellor sells travel services and travel packages, we act as agent for",
+        "bbox": [
+          72.00006103515625,
+          380.996826171875,
+          525.5714721679688,
+          394.4035949707031
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "third party providers of those travel services and ancillary products/services.  Whilst not falling within our supply",
+        "bbox": [
+          72.00003051757812,
+          393.18115234375,
+          525.5833129882812,
+          406.5879211425781
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "chain, we endeavour to use our relationships across the world to improve compliance, quality and ethical trading",
+        "bbox": [
+          72.00003051757812,
+          405.42559814453125,
+          525.5753784179688,
+          418.8323669433594
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "standards.  In many instances our relationship is not direct with the ultimate travel provider as we use reputable",
+        "bbox": [
+          71.989990234375,
+          417.60992431640625,
+          525.5933837890625,
+          431.0166931152344
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "third party ‘aggregators’ who contract with numerous third-party providers and then provide travel content into",
+        "bbox": [
+          72.00003051757812,
+          429.79425048828125,
+          525.5853271484375,
+          443.2010192871094
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "our systems.",
+        "bbox": [
+          72.0,
+          442.09881591796875,
+          125.62703704833984,
+          455.5055847167969
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "However, we also act as principal where a Travel Counsellor sells tailor-made package travel to customers.  As a",
+        "bbox": [
+          72.0,
+          460.2149658203125,
+          525.6065673828125,
+          473.6217346191406
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "result, our supply chain includes travel providers with whom we have direct agreements, including for example",
+        "bbox": [
+          72.01998901367188,
+          472.45941162109375,
+          525.599365234375,
+          485.8661804199219
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "hotels.  Given the nature of our business, the supply chain is global and is driven by customer demand.",
+        "bbox": [
+          72.01998901367188,
+          484.703857421875,
+          490.4451904296875,
+          498.1106262207031
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "We also have a supply chain focused on providing services that support our day-to-day operations, for example,",
+        "bbox": [
+          72.01998901367188,
+          502.880126953125,
+          525.6073608398438,
+          516.286865234375
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "technology providers.  These suppliers tend to be located closer to our main operational trading business and",
+        "bbox": [
+          72.01995849609375,
+          515.064453125,
+          525.5282592773438,
+          528.47119140625
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "primarily support the group head office in the UK.",
+        "bbox": [
+          72.00993347167969,
+          527.3690185546875,
+          281.03717041015625,
+          540.7757568359375
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "Our policy on slavery and human trafficking and the Modern Slavery Act 2015",
+        "bbox": [
+          72.0,
+          545.3692016601562,
+          396.10693359375,
+          559.2769775390625
+        ],
+        "font_name": "Calibri-Bold",
+        "font_size": 10.02,
+        "is_bold": true,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "We are committed to acting with honesty, integrity and transparency in all our business dealings worldwide, and",
+        "bbox": [
+          72.0,
+          565.1195068359375,
+          525.5658569335938,
+          578.5262451171875
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "do not tolerate any form of slavery or human trafficking in our organisation or within the supply chains. We",
+        "bbox": [
+          71.99998474121094,
+          577.3638916015625,
+          525.49462890625,
+          590.7706298828125
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "expect the same high standards from all our suppliers, contractors and business partners.",
+        "bbox": [
+          71.99998474121094,
+          589.6083984375,
+          437.3292236328125,
+          603.01513671875
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "Supplier Compliance",
+        "bbox": [
+          72.0,
+          607.709228515625,
+          159.46458435058594,
+          621.6170043945312
+        ],
+        "font_name": "Calibri-Bold",
+        "font_size": 10.02,
+        "is_bold": true,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "Our suppliers are expected to abide by our Supplier Code of Conduct and we enter into agreements with",
+        "bbox": [
+          72.0,
+          627.45947265625,
+          525.5592651367188,
+          640.8662109375
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "appropriate terms covering slavery and human trafficking. Colleagues use our contracts, supplier process and",
+        "bbox": [
+          72.0,
+          639.7039184570312,
+          525.5633544921875,
+          653.1106567382812
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "H&S to monitor our suppliers.  Based on a number of factors, including supplier reviews and feedback, we",
+        "bbox": [
+          72.0,
+          651.8882446289062,
+          525.5853271484375,
+          665.2949829101562
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "consider how to refine and improve our supply chain management. As part of this, we focus on particular areas",
+        "bbox": [
+          71.99990844726562,
+          664.1326904296875,
+          525.5913696289062,
+          677.5394287109375
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "of concern and/or identify recommendations for improvement in order to drive and maintain high standards.",
+        "bbox": [
+          72.00991821289062,
+          676.3170166015625,
+          525.5952758789062,
+          689.7237548828125
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "We will take appropriate action where we identify suppliers who fail to uphold the high standards we expect of",
+        "bbox": [
+          72.0198974609375,
+          688.5614624023438,
+          525.5698852539062,
+          701.9682006835938
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "them which may include requiring implementation of corrective actions and/or suspension or cessation of",
+        "bbox": [
+          72.0198974609375,
+          700.7457885742188,
+          525.5694580078125,
+          714.1525268554688
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "bookings.",
+        "bbox": [
+          72.0198974609375,
+          712.990234375,
+          117.85137939453125,
+          726.39697265625
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "We recognise that in dealing with the global travel sector, there will be areas that carry greater risks in relation",
+        "bbox": [
+          72.02992248535156,
+          731.16650390625,
+          525.6502685546875,
+          744.5732421875
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "to slavery and human trafficking.  Our objective is to build relationships with suitable partners who share our",
+        "bbox": [
+          72.02992248535156,
+          743.350830078125,
+          525.5147705078125,
+          756.757568359375
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      },
+      {
+        "text": "values and leverage their quality and compliance capabilities to increase the reach of our influence into the",
+        "bbox": [
+          72.0198974609375,
+          755.5952758789062,
+          525.565185546875,
+          769.0020141601562
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 1
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "groups": [
+      {
+        "text": "2",
+        "bbox": [
+          517.7440795898438,
+          778.8698120117188,
+          525.8034057617188,
+          793.5610961914062
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.98,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 2
+      },
+      {
+        "text": "wider travel market.  We believe that this will have the greatest impact given the volume of global travel",
+        "bbox": [
+          72.0,
+          71.199462890625,
+          525.5593872070312,
+          84.6062240600586
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 2
+      },
+      {
+        "text": "providers that each Travel Counsellors has access to through the platform we provide.",
+        "bbox": [
+          71.97991943359375,
+          83.44390869140625,
+          423.92242431640625,
+          96.85066986083984
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 2
+      },
+      {
+        "text": "Responsibilities for policy compliance",
+        "bbox": [
+          72.0,
+          101.54917907714844,
+          230.08555603027344,
+          115.45693969726562
+        ],
+        "font_name": "Calibri-Bold",
+        "font_size": 10.02,
+        "is_bold": true,
+        "is_italic": false,
+        "page": 2
+      },
+      {
+        "text": "The Directors are ultimately responsible for the overall compliance of our legal and ethical obligations under the",
+        "bbox": [
+          72.0,
+          121.2994384765625,
+          525.5760498046875,
+          134.70619201660156
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 2
+      },
+      {
+        "text": "Act but compliance with the Act is the responsibility of all colleagues, persons or organisations working for or",
+        "bbox": [
+          72.0,
+          133.54388427734375,
+          525.4640502929688,
+          146.9506378173828
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 2
+      },
+      {
+        "text": "on behalf of the Company.  Our commercial and operational teams are primarily responsible for managing our",
+        "bbox": [
+          71.98997497558594,
+          145.72821044921875,
+          525.5794067382812,
+          159.1349639892578
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 2
+      },
+      {
+        "text": "travel-related supply chain.",
+        "bbox": [
+          72.0,
+          158.03277587890625,
+          185.20596313476562,
+          171.4395294189453
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 2
+      },
+      {
+        "text": "Our franchisees are obliged through their franchise agreements to operate in accordance with applicable laws.",
+        "bbox": [
+          72.0,
+          176.20904541015625,
+          527.7396850585938,
+          189.6157989501953
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 2
+      },
+      {
+        "text": "Reporting of suspected policy breaches",
+        "bbox": [
+          72.0,
+          194.30918884277344,
+          236.6286163330078,
+          208.21694946289062
+        ],
+        "font_name": "Calibri-Bold",
+        "font_size": 10.02,
+        "is_bold": true,
+        "is_italic": false,
+        "page": 2
+      },
+      {
+        "text": "All colleagues and our franchisees are encouraged to report any concerns they may have in relation to slavery",
+        "bbox": [
+          72.0,
+          214.0594482421875,
+          525.4801025390625,
+          227.46620178222656
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 2
+      },
+      {
+        "text": "and human trafficking.",
+        "bbox": [
+          71.98997497558594,
+          226.364013671875,
+          166.23809814453125,
+          239.77076721191406
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 2
+      },
+      {
+        "text": "This statement is made by Travel Counsellors Limited pursuant to section 54(1) of the Modern Slavery Act 2015",
+        "bbox": [
+          71.9899673461914,
+          262.65643310546875,
+          525.5762939453125,
+          276.0632019042969
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 2
+      },
+      {
+        "text": "and constitutes the Company’s slavery and human trafficking statement for the financial year ended 31 October",
+        "bbox": [
+          71.99998474121094,
+          274.90087890625,
+          525.597412109375,
+          288.3076477050781
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 2
+      },
+      {
+        "text": "2020.  Travel Counsellors Limited is the UK trading entity of the Travel Counsellors group of companies.",
+        "bbox": [
+          72.010009765625,
+          287.14532470703125,
+          492.89013671875,
+          300.5520935058594
+        ],
+        "font_name": "Calibri",
+        "font_size": 10.02,
+        "is_bold": false,
+        "is_italic": false,
+        "page": 2
+      },
+      {
+        "text": "Steve Byrne",
+        "bbox": [
+          72.0,
+          365.6092224121094,
+          123.82344055175781,
+          379.5169677734375
+        ],
+        "font_name": "Calibri-Bold",
+        "font_size": 10.02,
+        "is_bold": true,
+        "is_italic": false,
+        "page": 2
+      },
+      {
+        "text": "Chief Executive Officer",
+        "bbox": [
+          72.0,
+          385.3492126464844,
+          168.16195678710938,
+          399.2569580078125
+        ],
+        "font_name": "Calibri-Bold",
+        "font_size": 10.02,
+        "is_bold": true,
+        "is_italic": false,
+        "page": 2
+      },
+      {
+        "text": "Dated:  09.06.2021",
+        "bbox": [
+          72.0,
+          403.5254821777344,
+          152.57083129882812,
+          417.4332275390625
+        ],
+        "font_name": "Calibri-Bold",
+        "font_size": 10.02,
+        "is_bold": true,
+        "is_italic": false,
+        "page": 2
+      }
+    ]
+  }
+]
