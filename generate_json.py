@@ -1,20 +1,22 @@
-from pdfsix_miner import extract_pdf_details
-from predictor import predict_labels
 import os
 import json
+from pdfsix_miner import extract_pdf_details
+from predictor import predict_labels
 
 def extract_title(predicted_headings):
     for item in predicted_headings:
-        if item["level"] == "Title":
+        if item.get("level", "").lower() == "title":
             return item["text"]
-    return predicted_headings[0]["text"]
+    return predicted_headings[0]["text"] if predicted_headings else ""
 
-def process_pdf(pdfname):
-    base_name = pdfname.replace(".pdf", "")
-    raw_json_path = f"/app/temp/{base_name}.json"
+def process_pdf(pdfname, input_dir="/app/input", temp_dir="/app/temp", output_dir="/app/output"):
+    base_name = os.path.splitext(pdfname)[0]
+    raw_json_path = os.path.join(temp_dir, f"{base_name}.json")
+    input_pdf_path = os.path.join(input_dir, pdfname)
+    output_json_path = os.path.join(output_dir, f"{base_name}.json")
 
     # STEP 5A: Extract raw content using your miner
-    extract_pdf_details(f"/app/input/{pdfname}", raw_json_path)
+    extract_pdf_details(input_pdf_path, raw_json_path)
 
     # STEP 5B: Predict headings from that JSON
     headings = predict_labels(raw_json_path)
@@ -22,14 +24,15 @@ def process_pdf(pdfname):
     # STEP 5C: Build final structured output
     output_json = {
         "title": extract_title(headings),
-        "outline": [h for h in headings if h["level"] != "Title"]
+        "outline": [h for h in headings if h.get("level", "").lower() != "title"]
     }
 
     # STEP 5D: Write the final output JSON
-    with open(f"/app/output/{base_name}.json", "w") as f:
-        json.dump(output_json, f, indent=2)
+    with open(output_json_path, "w", encoding="utf-8") as f:
+        json.dump(output_json, f, indent=2, ensure_ascii=False)
 
 if __name__ == "__main__":
-    for file in os.listdir("/app/input"):
-        if file.endswith(".pdf"):
+    input_dir = "/app/input"
+    for file in os.listdir(input_dir):
+        if file.lower().endswith(".pdf"):
             process_pdf(file)
